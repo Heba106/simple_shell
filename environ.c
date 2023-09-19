@@ -4,7 +4,7 @@
  * _myenv - print current environment
  * @info: Struct contain potential arguments. Used to maintain
  *          constant function prototype.
- * Return: 0 Always 
+ * Return: 0 Always
  */
 int _myenv(info_t *info)
 {

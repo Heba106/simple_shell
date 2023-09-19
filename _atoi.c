@@ -4,7 +4,7 @@
  * interactive - return True if shell is interactive
  * @info: sttruct adddress
  *
- * Return: 1 iif interactive mode, else 0 
+ * Return: 1 iif interactive mode, else 0
  */
 int interactive(info_t *info)
 {

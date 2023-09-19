@@ -4,7 +4,7 @@
  * _erratoi - convert string to an integer
  * @s: string to be converted
  * Return: 0 if noumbers in string, converted number otherwise
- *       -1 on 
+ *       -1 on
  */
 int _erratoi(char *s)
 {

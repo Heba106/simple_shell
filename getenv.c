@@ -18,7 +18,7 @@ char **get_environ(info_t *info)
 }
 
 /**
- * _unsetenv - Remove 
+ * _unsetenv - Remove
  * @info: Structure constant function prototype.
  *  Return: 1 on delete
  * @var: string env
@@ -50,7 +50,7 @@ int _unsetenv(info_t *info, char *var)
 
 /**
  * _setenv - Initialize new environment variable,
- *             or modify 
+ *             or modify
  * @info: Struct containing potential arguments. Used to maintain
  *        constant function prototype.
  * @var: string env var property
